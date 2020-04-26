@@ -1,5 +1,21 @@
 body {
     margin: 0;
     padding: 0;
-    background: #aaa;
+    background: #f5f4f4;
+}
+header{
+    background: #ed2941;
+    height: 70px;
+}
+
+.goods-list{
+    display: flex;
+    justify-content: space-around;
+}
+.goods-item{
+    
+    height: 300;
+    width: 300;
+    border: 1px solid grey;
+    
 }
